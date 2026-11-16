@@ -6,7 +6,6 @@ dependencies:
   - xarray
   - netcdf4
   - cfgrib
-  - eccodes
   - dask
   - numpy
   - pandas
