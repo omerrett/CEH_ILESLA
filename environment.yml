@@ -1,0 +1,18 @@
+name: era5-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - xarray
+  - netcdf4
+  - cfgrib
+  - eccodes
+  - dask
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - cartopy
+  - jupyterlab
+  - ipykernel
+  - scikitlearn
