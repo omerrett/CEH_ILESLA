@@ -1,0 +1,26 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+climate_env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Large climate datasets
+*.nc
+*.grib
+*.grb
+*.zarr/
+
+# Operating system files
+.DS_Store
+Thumbs.db

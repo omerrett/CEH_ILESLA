@@ -2,7 +2,7 @@ name: era5-analysis
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
+  - python=3.12
   - xarray
   - netcdf4
   - cfgrib
@@ -16,3 +16,7 @@ dependencies:
   - jupyterlab
   - ipykernel
   - scikit-learn
+  - earthkit-data
+  - cdsapi
+  - regionmask
+  - xeofs
