@@ -19,3 +19,4 @@ dependencies:
   - cdsapi
   - regionmask
   - xeofs
+  - statsmodels
